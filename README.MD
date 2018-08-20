@@ -1,3 +1,4 @@
+```
 .
 ├── api
 │   └── api.js
@@ -29,3 +30,4 @@
 │       └── notFound.spec.js
 ├── sonarlint.json
 └── sonar-project.properties
+```
